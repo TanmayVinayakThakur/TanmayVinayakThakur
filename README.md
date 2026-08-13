@@ -17,3 +17,9 @@
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-8E24AA?style=for-the-badge)
 
 ![DSA](https://img.shields.io/badge/DSA-00C853?style=for-the-badge)
+
+🔥 GitHub Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayVinayakThakur&theme=dark" alt="GitHub Streak" />
+</p>
+
