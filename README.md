@@ -23,3 +23,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayVinayakThakur&theme=dark" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+
+  <a href="https://www.buymeacoffee.com/tanmay097" target="_blank">
+
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+
+  </a>
+
+</p>
+
