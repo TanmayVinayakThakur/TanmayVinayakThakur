@@ -11,5 +11,8 @@
 ![Algorithms](https://img.shields.io/badge/Algorithms-43A047?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-8E24AA?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/DSA-00C853?style=for-the-badge)
+## 🐍 GitHub Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/TanmayVinayakThakur/TanmayVinayakThakur/output/github-contribution-grid-snake.svg)
 
 
